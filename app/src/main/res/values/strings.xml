@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carousal</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_age">Enter Your age</string>
+    <string name="enter_gender">Enter Your Gender</string>
+    <string name="add_profile_image">Add Profile Image</string>
+    <string name="save_data">Save Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="all_fields">All Fields are mandatory to fill</string>
+    <string name="user_list">User List</string>
+    <string name="add_user">Add User</string>
+</resources>
